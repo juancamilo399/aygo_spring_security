@@ -71,3 +71,4 @@ Al realizar una operacion de moficacion sobre los recursos esta es exitosa.
 Si se realiza una operacion de modificacion con un usuario que no tenga permisos se obtiene una respuesta 403.
 ![admin2.png](img%2Fadmin2.png)
 
+Este taller se realizo siguiendo el siguiente [post](https://auth0.com/blog/spring-boot-authorization-tutorial-secure-an-api-java/#Implement-Role-Based-Access-Control-in-Spring-Boot)
